@@ -1,0 +1,9 @@
+{
+  "alpha": 0.7,
+  "dateFrom": "2013-01-01T00:00:00",
+  "dateTo": "2017-05-22T00:00:00",
+  "modelType": "HISTORICAL MONTE-CARLO",
+  "portfolioName": "B",
+  "workspaceName": "CALC_VAR",
+  "workspaceDescription": "Value at risk calculation"
+}
